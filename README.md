@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-informational)
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-blue) 
 - **Frameworks:** ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-lightgrey?logo=scikit-learn&logoColor=orange) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) 
 - **Libraries:** ![NumPy](https://img.shields.io/badge/-NumPy-green) ![Pandas](https://img.shields.io/badge/-Pandas-yellow) ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?logo=seaborn)
 - **Tools:** ![Jupyter](https://img.shields.io/badge/-Jupyter-orange) ![Git](https://img.shields.io/badge/-Git-black)
